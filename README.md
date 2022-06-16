@@ -1,7 +1,7 @@
 ### Hi, i'm Charles 👋
 
 - 🔭 I’m currently working at https://erodev.com.ng/ fulltime, during the weekend I spend time on personal projects.
-- 🌱 I’m currently learning Solidity
+- 🌱 I’m currently learning Solidity.
 - 👯 I’m looking to collaborate on anything cool
 - 📫 How to reach me: egualecharles@gmail.com
 - 😄 Pronouns: He / Him
