@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning about brain waves
 - 👯 I’m looking to collaborate on anything cool
 - 📫 How to reach me: egualecharles@gmail.com
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: The brain named itself
 <!--
 **Charles1403/Charles1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
